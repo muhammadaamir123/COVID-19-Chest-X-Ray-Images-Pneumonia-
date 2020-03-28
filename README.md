@@ -1,4 +1,4 @@
-# COVID-19 Chest X-Ray Images Pneumonia
+# COVID-19 Chest X-Ray Images Pneumonia using Keras and tensorflow
 
 Using Deep Learning to detect COVID-19 presence from x-ray scans.
 
